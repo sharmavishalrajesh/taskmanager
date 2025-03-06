@@ -1,5 +1,5 @@
 # Blockchain-Based Task Manager
-
+There are two was of deploying it one is using remix ide for which i have provided video instruction. and another one is hardhat for which follow the below instruction.
 ## Overview
 The **Blockchain-Based Task Manager** is a decentralized task management system built on Ethereum/Polygon. It leverages **Solidity** for smart contract development, **React.js** for the frontend, and **Ethers.js** for blockchain interactions. This project ensures transparency, immutability, and security for task tracking.
 
@@ -27,7 +27,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/sharmavishalrajesh/taskmanager/
 cd task-manager
 ```
 
@@ -78,7 +78,7 @@ npx hardhat run scripts/deploy.js --network sepolia
 This project is licensed under the MIT License.
 
 ## Contributors
-- **Sharma Vishal Rajes** (Developer)
+- **Sharma Vishal Rajesh** (Developer)
 
 ## Contact
-For queries, reach out via [your email] or visit [your portfolio link].
+For queries, reach out via [vishalsharma.se1131@gmail.com].
